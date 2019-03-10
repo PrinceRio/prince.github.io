@@ -1,0 +1,14 @@
+Package: prince.github.io.slyd
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: PrinceRio
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: Slyd (SlideToUnlock)
+Size: 14176
+MD5sum: F36534AF37313656D962F49B1ACF595E
+SHA1: 71710B50191225B1E6E00D1DD569C98817E6E8EE
+SHA256: 6E7C7D080BB8CD83DC98FA0CB3AF9218497E6D90D20ADE4FF83B6336FD067341
+Section: Tweaks
+Description: Slide to unlock for iOS 11 and 12
+Author: PrinceRio
+Name: slyd
